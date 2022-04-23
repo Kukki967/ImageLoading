@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044952543762",
+    "firebase_url": "https://imageloading-85b51-default-rtdb.firebaseio.com",
+    "project_id": "imageloading-85b51",
+    "storage_bucket": "imageloading-85b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044952543762:android:ab66e3485cbb2baa331ecb",
+        "android_client_info": {
+          "package_name": "com.kukki.imageloading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044952543762-0u3r0b3f1js4v9sj81ngerl0f1dovlmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kukki.imageloading",
+            "certificate_hash": "08ceff23cb71c7d6b4b41de6c196423d8d55bf58"
+          }
+        },
+        {
+          "client_id": "1044952543762-tp54rtiegae403vqehtb0s92a3kbs6c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCBrLu6GecIEHdpERWs1u_2Oj-IqQZCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044952543762-tp54rtiegae403vqehtb0s92a3kbs6c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
